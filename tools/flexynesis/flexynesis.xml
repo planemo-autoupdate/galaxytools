@@ -71,6 +71,7 @@
                     #end if
                     --fusion_type $fusion_type
                     --hpo_iter $hpo_iter
+                    --val_size $val_size
                     --finetuning_samples $finetuning_samples
                     --variance_threshold $variance_threshold
                     --correlation_threshold $correlation_threshold
