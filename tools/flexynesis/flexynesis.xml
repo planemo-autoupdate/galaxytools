@@ -85,6 +85,7 @@
                     $use_loss_weighting
                     $use_cv
                     $evaluate_baseline_performance
+                    --feature_importance_method $feature_importance_method
                     $disable_marker_finding
                     \${GALAXY_FLEXYNESIS_EXTRA_ARGUMENTS}
     ]]></command>
